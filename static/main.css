@@ -1,0 +1,72 @@
+table, th {
+	border:  5px solid black;
+}
+
+td {
+	border: 2px solid;
+}
+
+img {
+	height: 246;
+	width: 153.75;
+	border: 1px solid maroon;
+}
+
+a {
+	color: black;
+}
+
+.champ {
+	color: gold;
+}
+
+.winner {
+	color: green;
+	text-decoration: none;
+}
+
+.loser {
+	color: red;
+	text-decoration: none;	
+}
+
+.name-link {
+	text-decoration: none;
+}
+
+.name-link:hover {
+	color: gold;
+}
+
+.fighter-nickname {
+	font-family: Gunplay;
+	color: gray;
+}
+
+.fighter-name {
+	font-family: Gunplay;
+}
+
+.win {
+	border:  2px solid green;
+}
+
+.loss {
+	border:  2px solid red;
+}
+
+.next {
+	border: 3px solid gray;
+}
+
+.draw {
+	border: 2px solid darkblue;
+}
+
+.nc {
+	border: 2px dashed black;
+}
+
+.cnc {
+	border: 2px dotted black;
+}
