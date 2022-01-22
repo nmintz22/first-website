@@ -1,4 +1,4 @@
-# first-website
+# ufc-record-scraper
 Repository for UFC record searching app
 
 ufc_scraper.py - App
